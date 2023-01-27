@@ -1,4 +1,6 @@
 *.o
-*.orig
 *.out
+*.orig
+*.rej
 config.h
+st
