@@ -1,2 +1,4 @@
 * sewn's scrollback patch
   https://codeberg.org/sewn/st/commit/b70b5674319569165e017601cc7592f97e8cb37a.patch
+* st-expected-anysize
+  https://st.suckless.org/patches/anysize/st-expected-anysize-0.9.diff
